@@ -1,2 +1,2 @@
-# Quantam-Computing-Demo
-A hand to hand demo with quantam computing
+# Quantum-Computing-Demo
+A hand to hand demo with quantum computing
